@@ -137,9 +137,9 @@ function App() {
         <div className="contact-section">
           <h3 className="contact-title">📞 Contact Us</h3>
           <div className="contact-info">
-            <a href="mailto:sauravuseidevery@gmail.com" className="contact-link">
+            <a href="mailto:chandantiwari9159@gmail.com" className="contact-link">
               <span className="icon">📧</span>
-              <span>sauravuseidevery@gmail.com</span>
+              <span>chandantiwari9159@gmail.com</span>
             </a>
           </div>
           
@@ -151,7 +151,7 @@ function App() {
             © 2024 Todo App. All rights reserved.
           </p>
           <p className="made-with">
-            Made with <span className="heart">❤️</span> Saurav☺️
+            Made with <span className="heart">❤️</span> Chandan☺️
           </p>
           <div className="legal-links">
             <a href="#privacy" className="legal-link">Privacy Policy</a>
