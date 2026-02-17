@@ -137,7 +137,10 @@ function App() {
         <div className="contact-section">
           <h3 className="contact-title">📞 Contact Us</h3>
           <div className="contact-info">
-            <a href="mailto:chandantiwari9159@gmail.com" className="contact-link">
+           <a href="mailto:chandantiwari9159@gmail.com" className="contact-link">
+  Email Me
+</a>
+
               <span className="icon">📧</span>
               <span>chandantiwari9159@gmail.com</span>
             </a>
